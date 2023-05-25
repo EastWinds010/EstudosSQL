@@ -47,7 +47,7 @@ A modelagem conceitual é uma etapa importante para estabelecer uma base sólida
 ## Comando Básicos SQL para banco MySql
 
 ### Criando um banco de dados
->O comando padrão para se criar um **Banco de Dados** pode ser visualizado abaixo
+O comando padrão para se criar um **Banco de Dados** pode ser visualizado abaixo
 ```
 CREATE DATABASE NOME_DO_PROJETO;
 ```
