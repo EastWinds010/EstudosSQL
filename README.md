@@ -46,8 +46,8 @@ Algumas técnicas e ferramentas comuns usadas na modelagem conceitual incluem:
 A modelagem conceitual é uma etapa importante para estabelecer uma base sólida na modelagem de banco de dados, fornecendo uma representação clara e compreensível dos conceitos e relacionamentos essenciais no domínio do problema. A partir dessa base, é possível avançar para a modelagem lógica e física, onde os detalhes de implementação técnica são considerados.
 ## Comando Básicos SQL para banco MySql
 
-### Comentários
-os comentários são extremamente importantes para documentar e apoiar o 
+### Criando um banco de dados
+>O comando padrão para se criar um **Banco de Dados** pode ser visualizado abaixo
 ```
-CREATE DATABASE PROJETO;
+CREATE DATABASE NOME_DO_PROJETO;
 ```
